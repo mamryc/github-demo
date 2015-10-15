@@ -1,1 +1,1 @@
-Test
+Start editado desde fuera del directorio git
